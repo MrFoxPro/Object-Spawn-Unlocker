@@ -1,0 +1,1 @@
+This modification allows you to unlock static objects and create them.
