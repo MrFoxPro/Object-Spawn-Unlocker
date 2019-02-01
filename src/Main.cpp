@@ -75,8 +75,8 @@ void UnlockAllObjects()
 		MessageBoxA(NULL, "Object Spawn Unlocker: This version does not work with your current game version.", "Fatal Error", NULL);
 		return;
 	}
-	std::string str = std::to_string(checkModelBeforeCreation);
-	MessageBoxA(NULL, const_cast<char *>(str.c_str()), "INFO", NULL);
+	// std::string str = std::to_string(checkModelBeforeCreation);
+	// MessageBoxA(NULL, const_cast<char *>(str.c_str()), "INFO", NULL);
 	memset((void*)checkModelBeforeCreation, 0x90, 24);
 }
 
