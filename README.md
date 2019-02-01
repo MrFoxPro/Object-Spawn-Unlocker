@@ -8,4 +8,4 @@ cs - country side
 dt - downtown  
 id - industrial  
 po - harbor  
-^ i suppose we should imvprove mapeditor to avoid this sh*t
+^ i suppose we should improve mapeditor to avoid this sh*t
